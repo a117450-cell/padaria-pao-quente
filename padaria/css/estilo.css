@@ -1,4 +1,4 @@
-/* Paleta Cozy: Fundo creme, texto cinzento-escuro e destaques em castanho-artesanal */
+/* Paleta Cozy */
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: #3e3a37;
@@ -8,7 +8,7 @@ body {
     line-height: 1.6;
 }
 
-/* Cabeçalho principal com logótipo alinhado à esquerda */
+/* Cabeçalho principal */
 #cabecalho-principal {
     background-color: #2b2b2b;
     color: #f7f4ee;
@@ -25,7 +25,7 @@ body {
     margin: 0 auto;
 }
 
-/* Logótipo destacado com fundo branco, moldura e sombra */
+/* Logótipo */
 .logo-padaria {
     width: 150px;
     height: auto;
@@ -78,7 +78,7 @@ main {
     margin: 0 auto;
 }
 
-/* Blocos de conteúdo com visual de cartão aconchegante */
+/* Blocos de conteúdo */
 section {
     margin-bottom: 35px;
     padding: 25px;
@@ -112,7 +112,7 @@ button:hover {
     background-color: #6e543e;
 }
 
-/* Grelha do catálogo de produtos (quebra de linha automática) */
+/* Grelha do catálogo de produtos */
 .catalogo-produtos {
     list-style-type: none;
     padding: 0;
@@ -152,7 +152,7 @@ button:hover {
     color: #5a4636;
 }
 
-/* Formatação da Tabela de Horário */
+/* Formatação da Tabela */
 .tabela-horario {
     width: 100%;
     border-collapse: collapse;
@@ -174,14 +174,14 @@ button:hover {
     background-color: #faf8f5;
 }
 
-/* Rodapé estilo galeria + fundo escuro */
+/* Rodapé */
 footer {
     background-color: #1c1a19;
     color: #d1c7bd;
     margin-top: 40px;
 }
 
-/* Faixa de 5 imagens lado a lado sem espaços */
+/* Faixa de 5 imagens */
 .faixa-fotos {
     display: flex;
     width: 100%;
@@ -233,14 +233,14 @@ footer {
     color: #ffffff;
 }
 
-/* Copyright em baixo */
+/* Copyright */
 .rodape-copy {
     margin-top: 22px;
     font-size: 0.8rem;
     color: #8c8279;
 }
 
-/* Botão circular no canto direito para subir ao topo */
+/* Botão para subir ao topo */
 .btn-topo {
     position: absolute;
     right: 20px;
