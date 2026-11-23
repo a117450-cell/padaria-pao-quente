@@ -2,4 +2,4 @@
 
 Website para um trabalho de avaliação
 
-# LINK : https://a117450-cell.github.io/padaria-pao-quente/
+# Link : https://a117450-cell.github.io/padaria-pao-quente/
